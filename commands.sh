@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "                                                                            █████        
                                                                            ░░███         
   ██████   ██████  █████████████   █████████████    ██████   ████████    ███████   █████ 
@@ -117,15 +115,16 @@ function validation_options() {
    if [ "$options" == "1" ]
    then
    option_one
+   validation_option_one
+
 
    elif [ "$options" == "2" ]
    then
-   echo "Opcao 2"
+   echo "Bye Bye!"
 
    else
-   echo "Bye Bye!"
+   echo "Option not exit"
    fi
 }
 
 validation_options
-validation_option_one
