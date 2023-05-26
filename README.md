@@ -16,3 +16,6 @@ chmod +x commands.sh
 ## Contribution
 
 Feel free to want to contribute, add new commands and improve the repository :rocket:
+
+## License
+Commands is released under the MIT license. See [LICENSE](https://github.com/heroesofcode/Commands/blob/main/LICENSE) for details.
