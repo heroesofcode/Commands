@@ -1,5 +1,8 @@
 # Commands
 
+[![CI](https://github.com/heroesofcode/Commands/actions/workflows/CI.yml/badge.svg)](https://github.com/heroesofcode/Commands/actions/workflows/CI.yml)
+[![GitHub](https://img.shields.io/github/license/heroesofcode/Commands)](https://github.com/heroesofcode/Commands/blob/main/LICENSE)
+
 Commands was written in Shell Script to make everyday linux commands easier
 
 <img src="https://github.com/heroesofcode/Commands/blob/main/sample.png">
